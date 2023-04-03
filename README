@@ -1,3 +1,6 @@
+A multithreaded chat application developed in python using Socket programming.
+
+
 To start the server run the below command
 
 python3 src/my_server.py <ip-adress> <port number>
