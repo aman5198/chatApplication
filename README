@@ -1,0 +1,13 @@
+To start the server run the below command
+
+python3 src/my_server.py <ip-adress> <port number>
+
+example 
+
+python3 src/my_server.py 127.0.0.1 3000
+
+Then to connect each client run the below commmand
+
+python3 src/mu_client.py 
+
+Then enter the details about the server that being asked for.
